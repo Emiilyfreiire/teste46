@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-public class cadastroactivity extends AppCompatActivity {
+public class CadastroActivity extends AppCompatActivity {
 
     EditText editNome, editRaca, editIdade;
     Button btnSalvar;
