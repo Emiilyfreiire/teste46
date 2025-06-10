@@ -21,7 +21,7 @@
         android:id="@+id/editIdade"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Idade Humana"
+        android:hint="Idade bla Humana"
         android:inputType="number"
         tools:ignore="Autofill,HardcodedText,TextContrastCheck,TouchTargetSizeCheck" />
 
